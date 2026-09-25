@@ -1,0 +1,4 @@
+# Порядок разделов на главной
+sections:
+  - kotlin
+  - coroutines

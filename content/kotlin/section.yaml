@@ -1,0 +1,6 @@
+title: Kotlin
+# Порядок тем: следующая открывается после прохождения предыдущей
+topics:
+  - data-class
+  - sealed-classes
+  - scope-functions
